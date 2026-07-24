@@ -5,6 +5,8 @@
 
 *A Comparative Assessment of Research Approaches, Resource Allocation, and Impact*
 
+
+*https://github.com/ericrenone/Sherman-Morrison-Meets-Sherrington-Kirkpatrick-3-A-Mathematical-Framework*
 ---
 
 ## Executive Summary
